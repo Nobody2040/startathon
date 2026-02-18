@@ -1,0 +1,18 @@
+{
+  "model": "deeplabv3+",
+  "encoder": "resnet50",
+  "num_classes": 10,
+  "classes": [
+    "Trees",
+    "Lush Bushes",
+    "Dry Grass",
+    "Dry Bushes",
+    "Ground Clutter",
+    "Flowers",
+    "Logs",
+    "Rocks",
+    "Landscape",
+    "Sky"
+  ],
+  "best_iou": 0.616069708764553
+}
